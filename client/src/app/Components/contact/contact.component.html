@@ -1,0 +1,32 @@
+  <div id="r">
+  <form id="contactForm" #contactForm="ngForm" class="container-fluname" style="border:2px solid pink">
+    <div class="col-7">
+      <input appOnlyLetters type="text" class="form-control" #name="ngModel" [(ngModel)]="model.name" 
+      required name="name"  placeholder="הכנס שם" >
+    </div>
+    <!-- <br> -->
+    <div [hidden]="name.valid || name.pristine"
+      class="alert alert-danger">
+   שם הוא שדה חובה
+ </div>
+<br>
+ <div class="col-7">
+  <input appOnlyNumbers type="text" class="form-control" #phone="ngModel" [(ngModel)]="model.phone" 
+  required name="phone"  placeholder="מספר טלפון" >
+</div>
+<br>
+<div [hidden]="phone.valid || phone.pristine"
+  class="alert alert-danger">
+!טלפון הוא שדה חובה
+</div>
+<br>
+<div class="col-7">
+  <input  type="email" class="form-control" #email="ngModel" [(ngModel)]="model.email" 
+   name="email"  placeholder="אימייל" >
+</div>
+<br>
+<button class="col-7" type="submit" (click)="save()" [disabled]="!contactForm.valid" >סיום בקשת יצירת קשר</button>
+
+  </form>
+  <a class="nav-link black" id="aaa" ngClass="black"><img src="/assets/images/לוגו.png" width="400"  height="100" ></a>
+</div>

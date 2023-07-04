@@ -1,0 +1,33 @@
+.btn1{
+    background-color: rgb(240, 172, 183);
+    padding: 30px 30px;
+    font-weight: 500;
+    font-size: larger;
+    border-radius: 3px;
+    display: inline-block;
+    text-align: center;
+    width: 60%;
+margin-left: 20%;
+    /* margin-right: auto;
+    margin-left: auto; */
+    margin-top: 2%;
+    /* align-items: center; */
+    
+    /* height: 70%; */
+    /* margin-right: 50; */
+}
+.btn1:hover{
+    background-color: rgb(243, 151, 166);
+}
+.container{
+    display: grid;   
+}
+/* .item{
+    height: 20%;
+    /* background-color: lightgray; 
+     border-color: black;
+    border-radius: 5%;
+    border-style: solid;
+    border-width: 2px;
+    display: inline-block;
+} */

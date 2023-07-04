@@ -1,0 +1,28 @@
+.nav-tabs{
+    margin-left: 10em;
+    /* background-color: rgb(231, 108, 128); */
+}
+.nav-link{
+    /* background-color: rgb(231, 108, 128) !important; */
+    color: #e99aae !important;
+
+}
+.nav-link select{
+    background-color:((#e99aae))!important;
+
+    color:white;
+}
+.black{
+    color: #e99aae !important;
+}
+.nav-link{
+    font-size: 150%;
+}
+.img-icon{
+    margin: -8%;
+}
+ul{
+    display: flex;
+    align-items:center;
+
+}

@@ -1,0 +1,11 @@
+<div class="container">
+    <!-- <button class="btn1"  routerLink="serviceDetails/hairStyle">עיצוב שיער</button>
+    <button class="btn1" routerLink="serviceDetails/makeup">איפור ערב </button> -->
+    <!-- <button class="btn1"  routerLink="serviceDetails/fan" > החלקות</button> -->
+        <div *ngFor="let s of services">
+
+    <button  class="btn1"  (click)="navigate(s)">{{s}}</button>
+        </div>
+
+</div>
+<router-outlet></router-outlet>

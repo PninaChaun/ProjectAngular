@@ -1,0 +1,17 @@
+.direction{
+   direction: rtl; 
+   text-align: center;
+  
+}
+/* .mrgin{
+    margin-left: 19%;
+    text-align: center;
+} */
+.save{
+    margin-left:45%;
+}
+.title{
+    margin-top: 20px;
+    text-align: center;
+    color: #e99aae;
+}

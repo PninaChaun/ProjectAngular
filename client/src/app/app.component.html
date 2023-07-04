@@ -1,0 +1,28 @@
+<img src="/assets/images/welcome.png" height="1000%" width="100%">
+
+   <ul class="nav nav-tabs nav-stacked" >
+      <li class="nav-item active" routerLink="" routerLinkActive="active">
+        <a class="nav-link">דף הבית</a>
+      </li>
+      <li class="nav-item active" routerLink="/services" routerLinkActive="active">
+        <a class="nav-link"> השירותים שלנו</a>
+      </li>
+      <li class="nav-item active" routerLink="/contact" routerLinkActive="active">
+        <a class="nav-link">צור קשר</a>
+      </li>
+      <li class="nav-item active" routerLink="/response" routerLinkActive="active">
+        <a class="nav-link" ngClass="black">{{service.message | naturalType:150}}</a>
+      </li>
+      <li class="nav-item active" >
+        <a class="nav-link black" ngClass="black">{{ service.date  }}</a>
+      </li>
+      <li class="nav-item active" >
+        <a class="nav-link black" ngClass="black"><img src="/assets/images/לוגו.png" height="50px" ></a>
+      </li>
+      <!-- <li class="nav-item" routerLink="/login" routerLinkActive="active">
+        <a class="nav-link" > login</a>
+      </li> -->
+   
+    </ul>
+
+<router-outlet></router-outlet>

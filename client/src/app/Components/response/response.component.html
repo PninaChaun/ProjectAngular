@@ -1,0 +1,25 @@
+<div class="container">
+    
+    <div *ngFor="let r of responses" style="border: 2px #e99aae solid " >
+        <div class="item">
+            <p class="m"><strong>התגובה:</strong> {{r.Content}} <br>
+              <strong class="m">שם:</strong>{{r.Name}} <br>
+            <strong> מייל:</strong>{{r.Email}} <br>
+            <strong>טלפון:</strong>{{r.Phone}}
+        </p>
+        
+    </div>
+    <div>
+        <p class="p1" (click)="addLike(r.Id)" id="handsUp" style="cursor: pointer;">👍</p>
+        <p  class="p1" id={{r.Id}}> {{r.Like}}</p>
+    </div>
+    </div>
+    <div class="container mt-3">
+
+        <button type="button"  routerLink="/newResponse"class="btn btn-outline-danger">הוסף תגובה</button>
+      
+      </div>
+      <!-- <button routerLink="/newResponse">הוסף תגובה</button> -->
+</div>
+
+<!-- <img src="/assets/images/מעודכן.png" height="10%" width="100%"class="img-home"> -->

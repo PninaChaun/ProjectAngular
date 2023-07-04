@@ -1,0 +1,21 @@
+.col-7{
+    margin-top: 2%;
+
+}
+form{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+#r{
+    direction: rtl;
+   
+   
+}
+.form-control{
+    text-align: center;
+}
+#aaa{
+    margin-top: 2%;
+    text-align: center;
+}

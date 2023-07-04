@@ -1,0 +1,153 @@
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Web.dll.config
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Web.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Web.pdb
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\csc.exe
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\csc.exe.config
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\csc.rsp
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\csi.exe
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\csi.exe.config
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\csi.rsp
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Buffers.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Memory.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\vbc.exe
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\vbc.exe.config
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\vbc.rsp
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Newtonsoft.Json.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Cors.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Http.Cors.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Http.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Http.Cors.xml
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\Newtonsoft.Json.xml
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Http.xml
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\obj\Debug\Web.dll
+C:\Users\אסתי\Documents\לימודים\ANGULAR\FinalProject\Web\obj\Debug\Web.pdb
+D:\Angular\Web\bin\Web.dll.config
+D:\Angular\Web\bin\Web.dll
+D:\Angular\Web\bin\Web.pdb
+D:\Angular\Web\bin\roslyn\csc.exe
+D:\Angular\Web\bin\roslyn\csc.exe.config
+D:\Angular\Web\bin\roslyn\csc.rsp
+D:\Angular\Web\bin\roslyn\csi.exe
+D:\Angular\Web\bin\roslyn\csi.exe.config
+D:\Angular\Web\bin\roslyn\csi.rsp
+D:\Angular\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Angular\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Angular\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Angular\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Angular\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Angular\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Angular\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Angular\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Angular\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Angular\Web\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Angular\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Angular\Web\bin\roslyn\System.Buffers.dll
+D:\Angular\Web\bin\roslyn\System.Collections.Immutable.dll
+D:\Angular\Web\bin\roslyn\System.Memory.dll
+D:\Angular\Web\bin\roslyn\System.Numerics.Vectors.dll
+D:\Angular\Web\bin\roslyn\System.Reflection.Metadata.dll
+D:\Angular\Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+D:\Angular\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Angular\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Angular\Web\bin\roslyn\vbc.exe
+D:\Angular\Web\bin\roslyn\vbc.exe.config
+D:\Angular\Web\bin\roslyn\vbc.rsp
+D:\Angular\Web\bin\roslyn\VBCSCompiler.exe
+D:\Angular\Web\bin\roslyn\VBCSCompiler.exe.config
+D:\Angular\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Angular\Web\bin\Newtonsoft.Json.dll
+D:\Angular\Web\bin\System.Net.Http.Formatting.dll
+D:\Angular\Web\bin\System.Web.Cors.dll
+D:\Angular\Web\bin\System.Web.Http.Cors.dll
+D:\Angular\Web\bin\System.Web.Http.dll
+D:\Angular\Web\bin\System.Web.Http.WebHost.dll
+D:\Angular\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Angular\Web\bin\System.Web.Http.Cors.xml
+D:\Angular\Web\bin\Newtonsoft.Json.xml
+D:\Angular\Web\bin\System.Net.Http.Formatting.xml
+D:\Angular\Web\bin\System.Web.Http.xml
+D:\Angular\Web\bin\System.Web.Http.WebHost.xml
+D:\Angular\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+D:\Angular\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+D:\Angular\Web\obj\Debug\Web.csproj.CopyComplete
+D:\Angular\Web\obj\Debug\Web.dll
+D:\Angular\Web\obj\Debug\Web.pdb
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Web.dll.config
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Web.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Web.pdb
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\csc.exe
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\csc.exe.config
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\csc.rsp
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\csi.exe
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\csi.exe.config
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\csi.rsp
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Buffers.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Memory.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\vbc.exe
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\vbc.exe.config
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\vbc.rsp
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\VBCSCompiler.exe
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Newtonsoft.Json.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Net.Http.Formatting.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Cors.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Http.Cors.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Http.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Http.WebHost.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Http.Cors.xml
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\Newtonsoft.Json.xml
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Net.Http.Formatting.xml
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Http.xml
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\bin\System.Web.Http.WebHost.xml
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\obj\Debug\Web.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\obj\Debug\Web.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\obj\Debug\Web.csproj.CopyComplete
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\obj\Debug\Web.dll
+C:\Users\The user\Desktop\ANGULAR פרויקט סופי\Web\obj\Debug\Web.pdb

@@ -1,0 +1,27 @@
+<h2 class="title">דף התגובה שלי</h2>
+<form id="newResponseForm"  [formGroup]="newResponseForm" class="container-fluname" style="border:2px solid pink">
+   <div class="direction">
+<br>
+    <div class="col-7">
+    <input type="text" formControlName="Content" name="Content" id="Content" placeholder="תוכן התגובה">
+    </div>
+    <br>
+    <div class="col-7">
+    <input appOnlyLetters type="text" formControlName="Name" name="Name" id="Name"placeholder="שם">
+    </div>
+    <br>
+    <div class="col-7">
+    <input type="email" formControlName="Email" name="email" id="email"placeholder="אימייל">
+    </div>
+   
+        <br>
+    <div class="col-7">
+        
+    <input appOnlyNumbers  type="text" formControlName="Phone" name="Phone" id="Phone"placeholder="טלפון">
+    </div>
+    <br>
+    <button class="save" [disabled]="!newResponseForm.valid" (click)="submitForm()">אישור התגובה</button>
+    </div>
+</form>
+<br>
+<img  class="befor" src="/assets/images/100.png" width="100%" height="700">
